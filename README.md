@@ -1,5 +1,19 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
+Authenticated Credentials:
+
+Username: henry       password: henry_the_developer
+
+Username: david       password: the_miller@23
+
+Username: robert      password: WilsonRobert45
+
+Username: mosh        password: DevMosh22
+
+Username: rahul       password: rahul@2021
+
+Username: praneetha   password: praneetha@2021
+
 ### Refer to the video below:
 
 <br/>
